@@ -1,0 +1,419 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MekaNews Lite v10.0.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2017-02-12 12:04+0300\n"
+"Last-Translator: Игорь <dybabiz@ya.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ mekanews-lite
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Это страница не может быть найдена."
+
+# @ mekanews-lite
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Ничего не было найдено. Может попробовать одну из следующих ссылок или новый поиск?"
+
+# @ mekanews-lite
+#: comments.php:30
+#, php-format
+msgctxt "comments title"
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "Один комментарий"
+msgstr[1] "%1$s Комментариев"
+
+# @ mekanews-lite
+#: comments.php:36 comments.php:56
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+# @ mekanews-lite
+#: comments.php:37 comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&larr; Старые комментарии"
+
+# @ mekanews-lite
+#: comments.php:38 comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "Новые комментарии &larr;"
+
+# @ mekanews-lite
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+# @ mekanews-lite
+#: comments.php:75
+msgid "Leave A Comment"
+msgstr "Комментировать"
+
+# @ mekanews-lite
+#: comments.php:78
+msgid "Name"
+msgstr "Имя"
+
+# @ mekanews-lite
+#: comments.php:80
+msgid "Email"
+msgstr ""
+
+# @ mekanews-lite
+#: comments.php:82
+msgid "Website"
+msgstr "Веб-сайт"
+
+# @ mekanews-lite
+#: comments.php:84
+msgid "Your Comment Here ..."
+msgstr "Напишите свой комментарий здесь..."
+
+# @ mekanews-lite
+#: functions.php:56
+msgid "Top Menu"
+msgstr "Верхнее Меню"
+
+# @ mekanews-lite
+#: functions.php:57
+msgid "Primary"
+msgstr "Основное"
+
+# @ mekanews-lite
+#: functions.php:58
+msgid "Footer Menu"
+msgstr "Меню в подвале"
+
+# @ mekanews-lite
+#: functions.php:116
+msgid "Sidebar"
+msgstr ""
+
+# @ mekanews-lite
+#: functions.php:118 functions.php:128
+msgid "Add widgets here."
+msgstr "Добавьте свои виджеты."
+
+# @ mekanews-lite
+#: functions.php:126
+msgid "Header"
+msgstr "Шапка сайта"
+
+# @ mekanews-lite
+#: header.php:25
+msgid "Skip to content"
+msgstr "Перейти к контенту"
+
+# @ mekanews-lite
+#: header.php:53
+msgid "Search ..."
+msgstr "Искать ..."
+
+# @ mekanews-lite
+#: inc/customizer/customizer.php:32
+msgid "Theme Options"
+msgstr "Опции темы"
+
+# @ mekanews-lite
+#: inc/customizer/customizer.php:62
+msgid "Theme Links"
+msgstr ""
+
+# @ mekanews-lite
+#: inc/customizer/customizer.php:63
+msgid "https://themecountry.com/mekanews-lite/"
+msgstr ""
+
+# @ mekanews-lite
+#: inc/customizer/customizer.php:64
+msgid "Theme Page"
+msgstr ""
+
+# @ mekanews-lite
+#: inc/customizer/customizer.php:65
+msgid "https://themecountry.com/docs/mekanews-lite/"
+msgstr ""
+
+# @ mekanews-lite
+#: inc/customizer/customizer.php:66
+msgid "Theme Documentation"
+msgstr ""
+
+# @ mekanews-lite
+#: inc/customizer/customizer.php:68
+msgid "Rate this theme"
+msgstr ""
+
+# @ mekanews-lite
+#: inc/customizer/functions/custom-controls.php:61
+msgid "All Categories"
+msgstr "Все категории"
+
+# @ mekanews-lite
+#: inc/customizer/functions/custom-controls.php:94
+msgid "Pro Version"
+msgstr ""
+
+# @ mekanews-lite
+#: inc/customizer/functions/custom-controls.php:97
+#, php-format
+msgid "Purchase the Pro Version of %s to get additional features and advanced customization options."
+msgstr ""
+
+# @ mekanews-lite
+#: inc/customizer/functions/custom-controls.php:101
+msgid "https://themecountry.com/themes/mekanews"
+msgstr ""
+
+# @ mekanews-lite
+#: inc/customizer/functions/custom-controls.php:102
+#, php-format
+msgid "Learn more about %s Pro"
+msgstr ""
+
+# @ mekanews-lite
+#: inc/customizer/pro/class-customize.php:76
+msgid "MekaNews Pro"
+msgstr ""
+
+# @ mekanews-lite
+#: inc/customizer/pro/class-customize.php:77
+msgid "Go Pro"
+msgstr ""
+
+# @ mekanews-lite
+#: inc/customizer/sections/customizer-general.php:17
+msgid "General Settings"
+msgstr "Основные настройки"
+
+# @ mekanews-lite
+#: inc/customizer/sections/customizer-general.php:32
+msgid "Theme Layout"
+msgstr "Расположение"
+
+# @ mekanews-lite
+#: inc/customizer/sections/customizer-general.php:38
+msgid "Left Sidebar"
+msgstr "Левый сайдбар"
+
+# @ mekanews-lite
+#: inc/customizer/sections/customizer-general.php:39
+msgid "Right Sidebar"
+msgstr "Правый сайдбар"
+
+# @ mekanews-lite
+#: inc/customizer/sections/customizer-home-archives.php:20
+msgid "Home & Archive Settings"
+msgstr "Главная & Архив Настройки"
+
+# @ mekanews-lite
+#: inc/customizer/sections/customizer-home-archives.php:35
+msgid "Post Layout Style"
+msgstr "Стиль расположения"
+
+# @ mekanews-lite
+#: inc/customizer/sections/customizer-home-archives.php:41
+msgid " List"
+msgstr "Список"
+
+# @ mekanews-lite
+#: inc/customizer/sections/customizer-home-archives.php:42
+msgid " Grid"
+msgstr "Сетка"
+
+# @ mekanews-lite
+#: inc/customizer/sections/customizer-home-archives.php:65
+msgid "Excerpt Length"
+msgstr "Длина выдержки"
+
+# @ mekanews-lite
+#: inc/customizer/sections/customizer-home-archives.php:84
+msgid "Excerpt More Text"
+msgstr "Текст для «Подробнее…»"
+
+# @ mekanews-lite
+#: inc/customizer/sections/customizer-home-archives.php:104
+msgid "Pagination Type"
+msgstr "Tип нумерации страниц"
+
+# @ mekanews-lite
+#: inc/customizer/sections/customizer-home-archives.php:110
+msgid " Default (Older Posts/Newer Posts)"
+msgstr "По умолчанию (предыдущая страница/следующая страница)"
+
+# @ mekanews-lite
+#: inc/customizer/sections/customizer-home-archives.php:111
+msgid "Numberal (1 2 3 ..)"
+msgstr "Номенация (1 2 3 ..)"
+
+# @ mekanews-lite
+#: inc/customizer/sections/customizer-single.php:19
+msgid "Single Post Settings"
+msgstr "Настройки отдельной записи"
+
+# @ mekanews-lite
+#: inc/customizer/sections/customizer-single.php:34
+msgid "Related posts"
+msgstr "Похожие записи"
+
+# @ mekanews-lite
+#: inc/customizer/sections/customizer-single.php:40
+msgid "Categories"
+msgstr "Категории"
+
+# @ mekanews-lite
+#: inc/customizer/sections/customizer-single.php:41
+msgid "Tags"
+msgstr "Метки"
+
+# @ mekanews-lite
+#: inc/customizer/sections/customizer-slider.php:17
+msgid "Slider Option"
+msgstr "Опции слайдера"
+
+# @ mekanews-lite
+#: inc/customizer/sections/customizer-slider.php:32
+msgid "Feature Slide"
+msgstr "Функция Slide"
+
+# @ mekanews-lite
+#: inc/extras.php:117
+msgid "Related Post"
+msgstr "Похожие записи"
+
+# @ mekanews-lite
+#: inc/template-tags.php:80 inc/template-tags.php:111
+#, php-format
+msgctxt "post date"
+msgid "%s "
+msgstr ""
+
+# @ mekanews-lite
+#: inc/template-tags.php:116
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+# @ mekanews-lite
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:140 inc/template-tags.php:146
+#: inc/template-tags.php:180
+msgid ", "
+msgstr ""
+
+# @ mekanews-lite
+#: inc/template-tags.php:142 inc/template-tags.php:182
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+# @ mekanews-lite
+#: inc/template-tags.php:148
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Метки: %1$s"
+
+# @ mekanews-lite
+#. translators: %s: post title
+#: inc/template-tags.php:156
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Оставить комментарий <span class=\"screen-reader-text\">на %s</span>"
+
+# @ mekanews-lite
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post
+#: inc/template-tags.php:163 template-parts/content-page.php:33
+#, php-format
+msgid "Edit %s"
+msgstr "Изменить %s"
+
+# @ mekanews-lite
+#: inc/template-tags.php:245
+msgid "<i class=\"fa fa-angle-left\"></i>"
+msgstr ""
+
+# @ mekanews-lite
+#: inc/template-tags.php:246
+msgid "<i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+# @ mekanews-lite
+#: inc/template-tags.php:247
+msgid "Page"
+msgstr "Страница "
+
+# @ mekanews-lite
+#: inc/template-tags.php:252
+msgid "<i class=\"fa fa-angle-left\"></i> Previous"
+msgstr "<i class=\"fa fa-angle-left\"></i> Назад"
+
+# @ mekanews-lite
+#: inc/template-tags.php:253
+msgid "Next <span class=\"meta-nav\"><i class=\"fa fa-angle-right\"></i>"
+msgstr "Вперед <span class=\"meta-nav\"><i class=\"fa fa-angle-right\"></i>"
+
+# @ mekanews-lite
+#: index.php:23
+msgid "Latest Post"
+msgstr "Последняя запись"
+
+# @ mekanews-lite
+#: search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+# @ mekanews-lite
+#: template-parts/content-grid.php:42 template-parts/content-page.php:22
+#: template-parts/content-search.php:43 template-parts/content-single.php:40
+#: template-parts/content.php:43
+msgid "Pages:"
+msgstr "Страницы:"
+
+# @ mekanews-lite
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+# @ mekanews-lite
+#: template-parts/content-none.php:21
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+# @ mekanews-lite
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+# @ mekanews-lite
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Кажется, мы можем и найти то, что вы ищете. Возможно, поиск может помочь."
+
+# @ mekanews-lite
+#. translators: %s: Name of current post.
+#: template-parts/content-single.php:35
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Читать далее %s <span class=\"meta-nav\">&rarr;</span>"
+
+# @ mekanews-lite
+#: template-parts/content.php:48
+msgid "Read more"
+msgstr "Подробнее"
